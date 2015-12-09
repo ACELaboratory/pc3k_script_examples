@@ -7,6 +7,6 @@ Automatically repair folders in PC-3000 database
 
 Please check this atricle http://blog.acelaboratory.com/pc-3000-database-problem-with-the-folders.html how to use it
 
-## Move DB Utility folders to root.spf
+## CSD2CSV.spf
 
 Convert CSD graph format to CSV
